@@ -55,17 +55,6 @@ I hold the **officially scored best Toffoli count at 11 widths (774–785 qubits
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=binharold&theme=tokyonight" alt="GitHub stats" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binharold&theme=tokyonight" alt="Repos per language" height="170" />
-
-<img src="https://streak-stats.demolab.com?user=binharold&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
 <div align="center">
 <sub>⚡ Built with Rust, Cairo and a lot of Toffoli gates.</sub>
 </div>
