@@ -47,13 +47,11 @@ I hold the **officially scored best Toffoli count at 11 widths (774–785 qubits
 
 ## 🛠️ Projects
 
-<div align="center">
-
-<a href="https://github.com/binharold/ecdsafail-challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=binharold&repo=ecdsafail-challenge&theme=tokyonight&hide_border=true" alt="ecdsafail-challenge" /></a>
-<a href="https://github.com/binharold/STARKNET-Cairo-Kids-Academy-50-Lesson-Curriculum-for-Young-Developers-Educational-Proposal-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=binharold&repo=STARKNET-Cairo-Kids-Academy-50-Lesson-Curriculum-for-Young-Developers-Educational-Proposal-&theme=tokyonight&hide_border=true" alt="Cairo Kids Academy" /></a>
-<a href="https://github.com/binharold/starknetbrother"><img src="https://github-readme-stats.vercel.app/api/pin/?username=binharold&repo=starknetbrother&theme=tokyonight&hide_border=true" alt="starknetbrother" /></a>
-
-</div>
+| | Project | What it is |
+|:---:|---|---|
+| ⚛️ | [**ecdsafail-challenge**](https://github.com/binharold/ecdsafail-challenge) | Quantum point-addition circuits for secp256k1: best Toffoli count at 11 widths ([results](https://github.com/binharold/ecdsafail-challenge/blob/main/RESULTS.md)) |
+| 🎓 | [**STARKNET Cairo Kids Academy**](https://github.com/binharold/STARKNET-Cairo-Kids-Academy-50-Lesson-Curriculum-for-Young-Developers-Educational-Proposal-) | A 50-lesson Cairo curriculum proposal for young developers |
+| 🧱 | [**starknetbrother**](https://github.com/binharold/starknetbrother) | Starknet project |
 
 ---
 
@@ -61,8 +59,8 @@ I hold the **officially scored best Toffoli count at 11 widths (774–785 qubits
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=binharold&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binharold&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=binharold&theme=tokyonight" alt="GitHub stats" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=binharold&theme=tokyonight" alt="Repos per language" height="170" />
 
 <img src="https://streak-stats.demolab.com?user=binharold&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
